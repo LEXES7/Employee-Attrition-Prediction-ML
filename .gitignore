@@ -1,7 +1,4 @@
-# ── Dataset ───────────────────────────────────────────────────────────────────
-# Do not commit the dataset — link is in submission.txt instead
-Dataset/
-*.csv
+
 
 # ── Jupyter Notebook checkpoints ─────────────────────────────────────────────
 .ipynb_checkpoints/
