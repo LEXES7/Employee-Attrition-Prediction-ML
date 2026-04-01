@@ -63,12 +63,3 @@ Desktop.ini
 *.joblib
 *.h5
 *.model
-
-# ── Output images (generated when notebook runs) ─────────────────────────────
-# Comment these out if you WANT to commit the plots
-outputs/*.png
-outputs/*.jpg
-
-# ── Performance metrics CSVs ──────────────────────────────────────────────────
-# Comment this out if you WANT to commit the metrics
-# Performance_Metrics/
