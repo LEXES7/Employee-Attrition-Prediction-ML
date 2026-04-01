@@ -1,0 +1,2 @@
+Model,Algorithm,Accuracy (%),F1 Score (%),Precision (%),Recall (%),ROC-AUC (%),Threshold,Class Weights,Iterations,Best Iteration,Train Samples,Test Samples,Features Used
+Decision Tree,DecisionTree Classifier,76.53,42.98,35.14,55.32,64.4,0.5,balanced,N/A,N/A,1176,294,30
