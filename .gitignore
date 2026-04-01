@@ -1,0 +1,74 @@
+# ── Dataset ───────────────────────────────────────────────────────────────────
+# Do not commit the dataset — link is in submission.txt instead
+Dataset/
+*.csv
+
+# ── Jupyter Notebook checkpoints ─────────────────────────────────────────────
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+
+# ── Virtual environments ──────────────────────────────────────────────────────
+venv/
+env/
+ENV/
+.venv/
+.env
+
+# ── macOS ─────────────────────────────────────────────────────────────────────
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# ── Windows ───────────────────────────────────────────────────────────────────
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ── IDEs ──────────────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ── Logs & temp files ─────────────────────────────────────────────────────────
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# ── Model files (too large for GitHub) ───────────────────────────────────────
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.model
+
+# ── Output images (generated when notebook runs) ─────────────────────────────
+# Comment these out if you WANT to commit the plots
+outputs/*.png
+outputs/*.jpg
+
+# ── Performance metrics CSVs ──────────────────────────────────────────────────
+# Comment this out if you WANT to commit the metrics
+# Performance_Metrics/
