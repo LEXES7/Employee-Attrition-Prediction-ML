@@ -1,0 +1,5 @@
+Model,Member,Notebook,Accuracy,F1 Score,Precision,Recall,ROC-AUC,Average Score
+Logistic Regression,Member 1,LogisticRegression.ipynb,,,,,,
+Decision Tree,Member 3,Decision_Tree.ipynb,76.53,42.98,35.14,55.32,64.4,54.874
+Random Forest,Member 2,random_forest_attrition.ipynb,79.59,49.15,40.85,61.7,77.77,61.812
+CatBoost,Member 4,Member4_CatBoost_Final.ipynb,83.67,51.02,49.02,53.19,80.83,63.54600000000001
